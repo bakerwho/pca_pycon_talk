@@ -3,6 +3,7 @@ This repository contains resources used for my talk on Dimensionality Reduction.
 We use the Netflix Prize dataset to illustrate how PCA explains variance in data.
 
 The dataset has become difficult to find, though it is available on Kaggle and through various other sources. I used the Archive link below, which I recommend you use as well:
+
 https://archive.org/download/nf_prize_dataset.tar
 
 Download this .tar to your local copy of this repository and extract its contents.
